@@ -83,13 +83,13 @@ buttons = [
             text="💙ADD LUCY TO YOUR GROUP 💙", url="t.me/LUCY_MANAGER2_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="yone_"),
+        InlineKeyboardButton(text="🇦 🇧 🇴 🇺 🇹", callback_data="yone_"),
         InlineKeyboardButton(
-            text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="🇸 🇺 🇵 🇵 🇴 🇷 🇹", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
     ],
     [
-        InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ❔", callback_data="help_back"),
+        InlineKeyboardButton(text="HELP & COMMANDS❔", callback_data="help_back"),
     ],
 ]
 
